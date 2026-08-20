@@ -1,266 +1,61 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+# João Marcelo B.
 
-<!--                       SYSTEM BOOT                          -->
+Full-stack developer building marketplace and data-driven products, from real estate tech to agribusiness tooling.
+Informatics student at Instituto Federal · Nova Resende, MG, Brazil
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0b1220,100:111827&text=JOÃO%20MARCELO%20B.&fontColor=00e5ff&fontSize=42&fontAlignY=38&desc=SYSTEM%20INITIALIZING...&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE.;FULL-STACK+DEVELOPMENT.;ARTIFICIAL+INTELLIGENCE.;SOFTWARE+%7C+BUSINESS+%7C+ECONOMICS.;BUILDING+IDEAS+INTO+SYSTEMS." alt="Typing Animation"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/LOCATION-NOVA%20RESENDE%2C%20MG-111827?style=for-the-badge&logo=googlemaps&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20SOFTWARE%20%7C%20ECONOMICS-111827?style=for-the-badge&logo=github&logoColor=00e5ff"/>
-
-<br/><br/>
-
-> **Building technology at the intersection of software, AI, business and economics.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcelo-bachi%C3%A3o-vaz-moreira-240032401/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jmbvmoreira@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jm653)
 
 </div>
 
----
+<br>
 
-## `> ABOUT_ME`
+## About
 
-<div align="center">
+I work across the stack, but most of my time goes into backend architecture and data modeling — schema design, matching logic, and the parts of a system that have to hold up once real users show up. My two main projects so far are a real estate marketplace with a credit-based lead system for brokers, and a farm management platform built for real coffee producers.
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                         USER PROFILE                                 │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  NAME       : João Marcelo B.                                       │
-│  USERNAME   : @jm653                                                 │
-│  LOCATION   : Nova Resende, MG, Brazil                              │
-│  EDUCATION  : Informatics Student @ Instituto Federal               │
-│                                                                      │
-│  INTERESTS  : Full Stack · AI · Business · Economics                 │
-│               Agribusiness · Financial Markets                       │
-│                                                                      │
-│  BUILDING   : Websites · Systems · SaaS                              │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+I'm also interested in the economics behind the products I build: pricing mechanisms, marketplace incentives, and where software can plug into agribusiness and financial data.
 
-</div>
+## Stack
 
-I'm **João Marcelo B.**, an Informatics student at Instituto Federal, based in Nova Resende, Brazil. I build websites, systems and SaaS projects while exploring full-stack development, AI, agribusiness and financial markets.
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,php,java,cpp,sql" height="32"/> |
+| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,tailwind" height="32"/> |
+| **Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" height="32"/> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vercel" height="32"/> |
 
-I'm particularly interested in understanding how technology can be applied to **real-world problems**, combining software, data and business ideas.
+## Featured Projects
 
----
+### [JF Imobiliária](https://github.com/jm653/JF-imobiliaria)
+Real estate marketplace built around a demand-first model: clients describe the property they're looking for once, and brokers unlock qualified leads through a credit system instead of paying for blanket listing placement. Includes AI-assisted compatibility matching between clients and brokers, a broker-facing CRM, and map-based property discovery.
 
-## `> TECH_STACK`
+`Next.js 15` `TypeScript` `Prisma` `Auth.js`
 
-<div align="center">
+### [AgroControle](https://github.com/jm653/AGROcontrole)
+Production management system for coffee farms, with separate interfaces for producers, staff, and admins. Pulls live coffee prices through a Yahoo Finance integration proxied by a small Flask scraper, plus a reporting module with a Chart.js dashboard and server-side PDF exports.
 
-### `LANGUAGES`
+`Django` `Python` `MySQL` `Chart.js` `ReportLab`
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,php,java,cpp,sql" />
+### [Flance](https://github.com/jm653/flance)
+Early-stage concept for a freelance marketplace connecting independent professionals with short-term work.
 
-### `FRAMEWORKS & LIBRARIES`
+`HTML` `CSS` `JavaScript`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,tailwind" />
+## Currently
 
-### `DATABASE & DEVELOPMENT`
+- Building the AI compatibility matching and broker CRM for JF Imobiliária
+- Refining the credit-unlock marketplace mechanics and the underlying Prisma schema
+- Reading into marketplace and agribusiness pricing models
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" />
-
-### `TOOLS & PLATFORMS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel" />
-
-</div>
-
----
-
-## `> PROJECTS`
+## GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-<h3 align="center">🏠 JF Imobiliária</h3>
-
-<p align="center">
-Real estate platform focused on connecting properties, clients and agents through a modern web experience.
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind" />
-</p>
-
-<p align="center">
-<a href="https://github.com/jm653/JF-imobiliaria">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">☕ AgroControle</h3>
-
-<p align="center">
-Management system designed around coffee production and agricultural workflows.
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,mysql" />
-</p>
-
-<p align="center">
-<a href="https://github.com/jm653/AGROcontrole">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">💼 Flance</h3>
-
-<p align="center">
-A freelance platform concept connecting professionals and clients through a digital marketplace.
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-<p align="center">
-<a href="https://github.com/jm653/flance">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## `> CURRENT_OBJECTIVES`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         CURRENT OBJECTIVES                          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  $ ./goals.sh                                                        ║
-║                                                                      ║
-║  [✓] Develop real-world software projects                            ║
-║  [✓] Strengthen full-stack development                               ║
-║  [→] Explore Artificial Intelligence & LLMs                          ║
-║  [→] Connect technology with business and economics                  ║
-║  [→] Study applications of technology in agribusiness                ║
-║  [→] Explore financial markets and data                              ║
-║                                                                      ║
-║  STATUS: IN_PROGRESS...                                              ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## `> GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jm653&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm653&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jm653&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
-
-</div>
-
----
-
-## `> CONTRIBUTION_ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jm653&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## `> GITHUB_TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jm653&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
----
-
-## `> CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jm653/jm653/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## `> SOCIAL_INTERFACE`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-bachi%C3%A3o-vaz-moreira-240032401/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
-</a>
-
-<a href="https://www.instagram.com/_joao.marceloo/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00e5ff"/>
-</a>
-
-<a href="mailto:jmbvmoreira@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
-</a>
-
-<a href="https://github.com/jm653">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0b1220,100:050505&animation=fadeIn"/>
-
-```text
-SYSTEM STATUS : ONLINE
-USER          : JOÃO MARCELO B.
-NODE          : JM653
-
-BUILDING THE FUTURE, ONE COMMIT AT A TIME.
-```
-
-<img src="https://komarev.com/ghpvc/?username=jm653&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jm653&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm653&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
 </div>
